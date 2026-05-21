@@ -5,6 +5,12 @@ An AI-powered financial research agent that autonomously fetches SEC filings and
 Built with LangGraph, Google Gemini, PostgreSQL + pgvector, and FastAPI.
 
 ---
+## DEMO
+![alt text](<Screenshot 2026-05-21 152217.png>)
+![alt text](<Screenshot 2026-05-21 152236.png>)
+![alt text](<Screenshot 2026-05-21 152400.png>)
+![alt text](<Screenshot 2026-05-21 152415.png>)
+---
 
 ## Architecture
 User Request
